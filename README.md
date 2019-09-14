@@ -5,4 +5,8 @@
 
 ## More to read.
 https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science
+
 https://github.com/papers-we-love/papers-we-love/tree/master/distributed_systems
+
+http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.7.9472
+
